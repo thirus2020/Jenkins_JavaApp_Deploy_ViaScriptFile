@@ -7,7 +7,7 @@ sudo yum upgrade -y
 sudo yum install java-21-amazon-corretto -y
 
 # Installing Maven tool 3.9.16
-cd /opt
+
 sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.59/bin/apache-tomcat-10.1.59.tar.gz
 
 # Extracting file
